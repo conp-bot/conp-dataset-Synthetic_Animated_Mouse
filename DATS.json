@@ -1,0 +1,83 @@
+{
+    "title": "Synthetic Animated Mouse (SAM), University of British Columbia, Datasets and 3D-models",
+    "description": "3D virtual mouse-body generates synthetic training data for behavioral analysis\n\nLuis A. Bolaños1,2†, Dongsheng Xiao1,2†, Nancy L. Ford4, Jeff M. LeDue1,2, Pankaj K. Gupta1,2, Carlos Doebeli1,2, Hao Hu1,2, Helge Rhodin3, and Timothy H. Murphy1,2*  \n\n1Department of Psychiatry; 2 Djavad Mowafaghian Centre for Brain Health; 3Department of Computer Science;  4Centre for High-Throughput Phenogenomics, Department of Oral Biological and Medical Sciences\n\nUniversity of British Columbia, Vancouver, British Columbia, Canada, V6T 1Z3",
+    "creators": [
+        {
+            "name": "Multiple Contributors"
+        }
+    ],
+    "version": "2023-06-19T20:23:13.278727",
+    "types": [
+        {
+            "information": {
+                "value": "dataset"
+            }
+        }
+    ],
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "N/A"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 13.27,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/h3ec5/"
+            },
+            "formats": [
+                "N/A"
+            ]
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "source",
+            "values": [
+                {
+                    "value": "osf"
+                }
+            ]
+        },
+        {
+            "category": "osf_node_id",
+            "values": [
+                {
+                    "value": "h3ec5"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "53"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        }
+    ]
+}
